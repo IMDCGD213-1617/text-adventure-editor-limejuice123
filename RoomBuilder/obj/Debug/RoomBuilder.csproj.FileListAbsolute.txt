@@ -31,3 +31,9 @@ D:\UNI WORK\CHRIS\RoomBuilder\RoomBuilder\obj\Debug\RoomBuilder.csproj.GenerateR
 J:\UNI WORK\CHRIS\RoomBuilder\RoomBuilder\bin\Debug\RoomBuilder.exe.config
 J:\UNI WORK\CHRIS\RoomBuilder\RoomBuilder\obj\Debug\RoomBuilder.exe
 J:\UNI WORK\CHRIS\RoomBuilder\RoomBuilder\obj\Debug\RoomBuilder.pdb
+J:\UNI WORK\CHRIS\RoomBuilder\RoomBuilder\bin\Debug\RoomBuilder.exe
+J:\UNI WORK\CHRIS\RoomBuilder\RoomBuilder\bin\Debug\RoomBuilder.pdb
+J:\UNI WORK\CHRIS\RoomBuilder\RoomBuilder\obj\Debug\RoomBuilder.csprojResolveAssemblyReference.cache
+J:\UNI WORK\CHRIS\RoomBuilder\RoomBuilder\obj\Debug\RoomBuilder.program.resources
+J:\UNI WORK\CHRIS\RoomBuilder\RoomBuilder\obj\Debug\RoomBuilder.Properties.Resources.resources
+J:\UNI WORK\CHRIS\RoomBuilder\RoomBuilder\obj\Debug\RoomBuilder.csproj.GenerateResource.Cache

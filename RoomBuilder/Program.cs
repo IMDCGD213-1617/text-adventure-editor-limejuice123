@@ -20,11 +20,14 @@ namespace RoomBuilder
         }
     }
 
+    //This is the class that we will print to XML.
     public class Output
     {
+        //RoomTitle and RoomDescription have only one value, so they are strings.
         private string _RoomTitle = "";
         private string _RoomDescription = "";
 
+        //All other inputs can have multiple values so they are lists of strings.
         public List<string> ItemsInRoom = new List<string>();
         public List<string> UsablesInRoom = new List<string>();
         public List<string> ExitsInRoom = new List<string>();

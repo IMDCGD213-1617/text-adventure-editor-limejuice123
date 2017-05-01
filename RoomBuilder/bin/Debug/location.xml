@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Output xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ItemsInRoom>
-    <string>Table</string>
+    <string>Thing</string>
+    <string>Thing2</string>
+    <string>Thing3</string>
   </ItemsInRoom>
   <UsablesInRoom>
-    <string>Candle</string>
+    <string>Use1</string>
+    <string>Use2</string>
+    <string>Use3</string>
   </UsablesInRoom>
   <ExitsInRoom>
-    <string>Forward</string>
+    <string>Backward</string>
     <string>Down</string>
+    <string>Left</string>
   </ExitsInRoom>
-  <RoomTitle>Dark Room</RoomTitle>
-  <RoomDescription>Scary stuff!</RoomDescription>
+  <RoomTitle>Room</RoomTitle>
+  <RoomDescription>It's a Room</RoomDescription>
 </Output>
