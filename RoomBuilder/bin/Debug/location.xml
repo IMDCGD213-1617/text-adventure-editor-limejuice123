@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Output xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ItemsInRoom>
+    <string>Table</string>
+  </ItemsInRoom>
+  <UsablesInRoom>
+    <string>Candle</string>
+  </UsablesInRoom>
+  <ExitsInRoom>
+    <string>Forward</string>
+    <string>Down</string>
+  </ExitsInRoom>
+  <RoomTitle>Dark Room</RoomTitle>
+  <RoomDescription>Scary stuff!</RoomDescription>
+</Output>
